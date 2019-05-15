@@ -81,9 +81,6 @@ body{
 	animation-iteration-count:infinite;
 	
 }
-a{
-	text-decoration:none;
-}
 nav{
 	display:inline-block;
 	<!--background-color:#2e2e2e;-->
@@ -103,11 +100,13 @@ li{
 	margin:2;
 }
 a{
-	color:#FF513E;
+	color:white;
 	font-size:55px;
+	text-decoration:none;
 }
 a:hover{
-	color:#FFEA5F;
+	color:#009AEA;
+	text-decoration:none;
 }
 li:hover{
 	border:3px dotted silver;
